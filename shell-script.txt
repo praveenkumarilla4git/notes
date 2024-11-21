@@ -1,0 +1,45 @@
+#!/bin/bash --> shebang
+The line #!/bin/bash at the beginning of a script is called a shebang: 
+What it does: The shebang tells the terminal to use bash to execute the script. This is important if you're using a different shell on your machine, like sh
+
+shell script == bash script reference to identify
+
+echo "Hellow Shell script" --> prints the content inside "" into terminal
+
+bash 01-filename.sh
+
+sh <script filename>
+
+Windows
+Steps:
+Open VS
+create a new folder named shell script
+create a new repo in github
+write a new script 01-helloworld.sh
+write the echo code
+execute in VS terminal
+Open bash terminal
+execute the shell script
+git push
+
+
+Linux
+create instance, install git
+git clone the repo
+sh execuute the sh filename
+
+
+Variables
+x = 1, y =2, z = 3
+
+x = x +1
+
+Variables in Shell:
+PERSON1=Sai
+PERSON2=Praveen
+PERSON3=Suresh
+
+date
+time
+
+
