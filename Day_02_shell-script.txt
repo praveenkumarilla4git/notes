@@ -1,0 +1,26 @@
+How can we run the command in shell script?
+
+$sh <shell-script-file-name>
+$(<command>)
+
+arguments = args
+
+sum (19, 16)
+
+def 
+{
+sum (a, b)
+c = a + b
+print(c)
+}
+return
+
+<shell-script-file-name> args
+sum.sh 12 13
+
+
+sh 02-variable.sh
+
+sh 02-variable.sh Ram Laxman
+$1 = Ram
+$2 = Laxman
