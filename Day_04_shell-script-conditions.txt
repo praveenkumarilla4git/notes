@@ -1,0 +1,30 @@
+sudo yum install git -y
+sudo yum install python -y
+
+conditions
+----------------
+
+if (expression) {
+		statement if expression is true this will execute
+}
+else{
+		statement if expression is false this will execute
+}
+
+
+
+
+if (expression) {
+		statement if expression is true this will execute
+}
+else if (expression) {
+}
+else if (expression) {
+}
+else if (expression) {
+}
+else if (expression) {
+}
+else{
+		statement if expression is false this will execute
+}

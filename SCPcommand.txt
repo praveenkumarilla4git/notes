@@ -1,0 +1,35 @@
+uname --> Name we have given in aws
+uname -a gives all the details about the machine linux box
+pwd --> present working directory
+history
+man uname
+ls --> list
+ls -l
+cd .. --> move cursur to previous directory
+ls --help
+ls -ltra
+rm removes files
+
+
+
+Creation of new Folder --> mkdir
+Creation of new File --> touch; echo "I am creating a file" > test1.txt; echo "I am appending the content into already created file" >> test1.txt
+
+Remove a file:
+rm <filename>
+deletes the file
+rm -rf --> to delete a folder with all its content and also forcefully
+rmdir --> to delete an empty directory
+Editing a File --> vi; echo "I am appending a file" >> test1.txt
+
+copy
+cp --> cp /etc/passwd <destination>
+cp --> cp /etc/passwd .
+mv
+scp
+
+scp username@IP username@IP
+
+scp -i key.pem <name of the file in the source> <username@ip of destination: dirname/path>
+
+

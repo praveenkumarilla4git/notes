@@ -1,0 +1,30 @@
+sudo yum install git -y
+sudo yum install python -y
+
+echo "Please enter your username"
+
+read -s USERNAME # the value entered will be attached to username variable
+
+echo "Please enter your passsword"
+read -s PASSWORD # attached to password variable
+
+data types:
+
+int, float, double, char, string, boolean, array
+
+int = -33, 1, 33
+float = 1.2, 1.4
+string = sai
+double = 44.456789
+long = 44.456789895757578
+char = a, b, 
+boolean = true/false
+array = [ajay mahesh ram]
+arraylist [ajay mahesh ram]
+map --> name: sai, prof: student
+
+key value pairs will be used more
+
+cars=("dezire" "punch" "XUV700")
+cars[0] = dezire
+
