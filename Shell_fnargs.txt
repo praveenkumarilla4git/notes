@@ -1,0 +1,13 @@
+shell scripting:
+
+$? --> previous command exit status
+$0 --> you will get the script name
+$1 --> Function Argument 1
+$2 --> Function Argument 2
+$N --> nth argument of the function
+$@ --> all the arguments passing via function argument list
+$# --> how many arguments we are sending via function call
+date
+
+echo "Sai is a good boy"
+echo -e "Sai is a \e[31m good \e[0m boy"
